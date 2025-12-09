@@ -1,0 +1,62 @@
+doctype neml?
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content-"width=device-width, initial-scale=1.0">
+<title>Social Feed</title>
+<link href="./output.css" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+<div>
+Logo
+</div>
+
+I
+
+<nav>
+<a href="">Inicio</a>
+<a href="">Amigos</a>
+<a href="">Perfilk/a>
+</nav>
+
+</header>
+
+</body>
+html lang="pt-br">
+<body>
+<main>
+
+<div>
+
+<!-- CARD HEADER -- >
+
+<div>
+
+->
+
+<img src="images/profile_01.jpg" alt="">
+<h2>FroJho</h2>
+
+</div>
+
+<!-- CARD IMAGE
+<img src="images/post_01.png" alt="">,
+
+<!-- CARD CONTENT -- >
+
+<div>
+
+p>
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod beatae
+quas nihil sed fugit voluptatibus repellat delectus ut tempora debitis
+est dolorum deserunt, blanditiis temporibus dicta iste praesentium atque
+aliquid!
+
+</p>
+
+<span>

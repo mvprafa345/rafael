@@ -1,0 +1,4 @@
+double c=f.nextDouble(), fhr=c*9/5+32, k=c+273.15;
+System.out.println("C="+c+"°C  F="+fhr+"°F  K="+k+"K");
+ double[] n={…}; double b1=(n[0]+n[1])/2,b2=(n[2]+n[3])/2,b3=(n[4]+n[5])/2,b4=(n[6]+n[7])/2,s1=(b1+b2)/2,s2=(b3+b4)/2,mf=(s1+s2)/2;
+System.out.println(b1+" "+b2+" "+s1+" | "+b3+" "+b4+" "+s2+" | Final="+mf);
